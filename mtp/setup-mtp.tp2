@@ -144,7 +144,9 @@ END
 LANGUAGE ~English~
 	 ~English~
 	 ~mtp/English/setup.tra~
-
+LANGUAGE ~Chinese~
+	 ~schinese~
+	 ~mtp/schinese/setup.tra~
 
 
 /* ****************************************
